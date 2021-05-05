@@ -8,5 +8,3 @@ this is my new line,
 and some more cool sentences.
 
 
-
-everthing is cool but i wanted this line anyway for my testing.
